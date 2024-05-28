@@ -30,3 +30,25 @@
 *.exe
 *.out
 *.app
+*.sln
+Programming task/.vs/Programming task/v17/ipch/AutoPCH/83c50a29de108dd7/PROGRAMMING TASK.ipch
+Programming task/.vs/Programming task/v17/Browse.VC.db
+Programming task/.vs/Programming task/v17/.suo
+Programming task/.vs/Programming task/FileContentIndex/0f3430e5-d579-49ea-ba98-abf6c14646c0.vsidx
+Programming task/Programming task/Programming task.vcxproj
+Programming task/Programming task/Programming task.vcxproj.filters
+Programming task/Programming task/Programming task.vcxproj.user
+Programming task/Programming task/x64/Debug/Programming task.exe.recipe
+Programming task/Programming task/x64/Debug/Programming task.ilk
+Programming task/Programming task/x64/Debug/Programming task.log
+Programming task/Programming task/x64/Debug/Programming task.tlog/CL.command.1.tlog
+Programming task/Programming task/x64/Debug/Programming task.tlog/Cl.items.tlog
+Programming task/Programming task/x64/Debug/Programming task.tlog/CL.read.1.tlog
+Programming task/Programming task/x64/Debug/Programming task.tlog/CL.write.1.tlog
+Programming task/Programming task/x64/Debug/Programming task.tlog/link.command.1.tlog
+Programming task/Programming task/x64/Debug/Programming task.tlog/link.read.1.tlog
+Programming task/Programming task/x64/Debug/Programming task.tlog/link.write.1.tlog
+Programming task/Programming task/x64/Debug/Programming task.tlog/Programming task.lastbuildstate
+Programming task/Programming task/x64/Debug/vc143.idb
+Programming task/Programming task/x64/Debug/vc143.pdb
+Programming task/x64/Debug/Programming task.pdb
